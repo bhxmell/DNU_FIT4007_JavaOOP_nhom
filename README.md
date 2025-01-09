@@ -16,7 +16,7 @@ This project is licensed under the terms of the MIT open source license. Please 
 
 ## Maintainers 
 
-You can find the list of maintainers in [CODEOWNERS](./.github/CODE_OF_CONDUCT.md)
+You can find the list of maintainers in [CODEOWNERS](./.github/CODEOWNERS)
 
 ## Support
 
