@@ -1,0 +1,11 @@
+echo "# DNU_FIT4007_JavaOOP_nhom" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bhxmell/DNU_FIT4007_JavaOOP_nhom.git
+git push -u origin main
+
+git remote add origin https://github.com/bhxmell/DNU_FIT4007_JavaOOP_nhom.git
+git branch -M main
+git push -u origin main
